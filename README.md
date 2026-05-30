@@ -1,5 +1,6 @@
 # LemonBot-ToS
 These Terms of Service outline the rules and restrictions for using LemonBot. By using the bot, you agree to follow all guidelines and understand that violations may result in punishments, restrictions, or permanent loss of access.
+
 #**1**: **No abusing economy commands.**
 
 - Do not spam or abuse commands such as L?spawnlemon, or any other command that generates lemons, rewards, XP, or items unfairly.
